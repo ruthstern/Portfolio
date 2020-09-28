@@ -1,3 +1,23 @@
-.body {
+body {
     background-color: aquamarine;
+    margin-top: 4rem;
+
+}
+
+.header {
+    text-align: center;
+    margin-top: 2rem;
+
+}
+
+.firstp {
+    text-align: center;
+}
+
+.secondp {
+    text-align: center;
+}
+
+.thirdp {
+    text-align: center;
 }
